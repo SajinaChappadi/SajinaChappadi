@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi, my name is Sajina and I am a Software Tester based in Sydney. I am really passionate about learning new tools and technologies. Currently I'm learning Test Automation because I want to be a technical tester who possesses a developer’s skillset with a tester’s mindset. 
 
 <!--
 **SajinaChappadi/SajinaChappadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
